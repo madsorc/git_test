@@ -1,0 +1,1 @@
+This is madsorc's first git project!
